@@ -3,7 +3,7 @@ using Common;
 
 namespace Inversion
 {
-    public class CalculateInversions
+    public class InversionCalculator
     {
         public static void Main(string[] args)
         {
